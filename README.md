@@ -1,5 +1,4 @@
 # Grocery-Store-Python-Project
-Here’s a sample README for your *Grocery Store Management System* project:
 
 ---
 
@@ -34,9 +33,11 @@ A comprehensive **Grocery Store Management System** built with **Python**, **Tki
 
 ## 📂 Project Structure
 - `main.py`: Entry point of the application.
-- `auth.py`: Handles login, sign-up, and OTP verification.
-- `database/`: SQL scripts for setting up the database.
+- `email_pass.py`: Handles login, sign-up, and OTP verification.
+- `main.oy`: SQL scripts for setting up the database (conn method).
 
 ## 📧 Contact
 For any queries, feel free to reach out!
+ayushempire03@gmail.com
+ayushamberkar03@gmail.com
 
